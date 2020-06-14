@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FifthQue</string>
+    <string-array name="branch">
+        <item>****choose your branch</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>CIVIL</item>
+        <item>MECH</item>
+
+
+    </string-array>
+
+
+
+</resources>
+
